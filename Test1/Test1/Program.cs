@@ -11,6 +11,8 @@ namespace Test1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello GitHub!");
+            Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Visual Studio!");
         }
     }
